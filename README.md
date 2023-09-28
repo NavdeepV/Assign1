@@ -6,4 +6,5 @@ These files are linked together to execute one output altogether. The test metho
 ‘GroceryStore.java’ file because all the information is pulled from that file itself. 
 
 our output:
+
 <img width="342" alt="output" src="https://github.com/NavdeepV/Assign1/assets/146030349/b740f355-3d4f-4d95-9f24-d5212c60b9fb">
