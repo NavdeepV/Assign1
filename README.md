@@ -1,4 +1,8 @@
 # Assignment1
+Group Member 1: Navdeep Virdi (100827233)
+Group Member 2: Rida Siddiqi (100825212)
+Group Member 3: Kevin Cao (100847959)
+
 Regarding the structure of the repository, we have the 6 files source code in one folder and the tester code in the other folder.
 The UML diagram is in the home folder names Assign1.We have 7 files of code in one folder. The names of the files are ‘Apple.java’, 
 ‘AppleFactory.java’, ‘Banana.java’,‘BananaFactory.java’, ‘GroceryProduct.java’, GroceryProductFactory.java’, and ‘GroceryStore.java’.
